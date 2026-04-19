@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3bf496c-c2d5-4877-847e-878e9868f4ba",
+  "export_job_id": "8f34ef7b-a4c7-41ad-9b24-530c3b1a9638",
   "id_short": 572187,
-  "published_at": "2026-04-13T19:29:24Z",
+  "published_at": "2026-04-19T07:33:10Z",
   "repo_name": "tech-ready-restaurants-in-the-milwaukee-waukesha-metro-area-wi-us-sample-572187",
   "sample_asset_name": "beamstation_572187_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/572187/beamstation_572187_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "393585107715a71e527cbb4497ab3b4d01be82acfcc9a4a72217dfd7b9ec62b9",
-  "sample_size_bytes": 20141,
-  "total_records": 6
+  "sample_sha256": "1f589dd70be06d0215dfb3a02a17af46e1bbf34b4082a9c4c1d5ecf755b185de",
+  "sample_size_bytes": 20144,
+  "total_records": 4
 }
